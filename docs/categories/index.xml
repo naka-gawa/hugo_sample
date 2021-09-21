@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://naka-gawa.github.io/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>tmnkgwa4@gmail.com (Tomoaki Nakagawa)</managingEditor>
+    <webMaster>tmnkgwa4@gmail.com (Tomoaki Nakagawa)</webMaster><atom:link href="https://naka-gawa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
